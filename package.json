@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeokjae-kwon/node-study.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "khyeokjae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyeokjae-kwon/node-study/issues"
+  },
+  "homepage": "https://github.com/hyeokjae-kwon/node-study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
