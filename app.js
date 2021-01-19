@@ -7,7 +7,7 @@ mysql.connect();
 
 var router = require('./router/index');
 
-/* port 연결 */ 
+/* port info */ 
 app.listen(3000, function() {
     console.log("Start!! express server on port 3000");
 });
