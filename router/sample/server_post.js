@@ -28,4 +28,4 @@ server.listen(3000, function() {
     console.log('Server is running...');
 });
 
-// 호출 url : http://localhost:3000/?var1=newData&var2=153&var3=testdata2021
+// postman 호출 url : localhost:3000
